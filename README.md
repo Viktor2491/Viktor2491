@@ -56,8 +56,9 @@ Email: v.taradayko@mail.ru
 [Java для тестировщиков](https://github.com/Viktor2491/Viktor2491/blob/main/Certificates/certificate%20(4).pdf)  
 [Автоматизированное тестирование](https://github.com/Viktor2491/Viktor2491/blob/main/Certificates/certificate%20(5).pdf)
 
-[ HTML-верстка: с нуля до первого макета](https://github.com/Viktor2491/Viktor2491/blob/main/Certificates/certificate.pdf))   
+[ HTML-верстка: с нуля до первого макета](https://github.com/Viktor2491/Viktor2491/blob/main/Certificates/certificate.pdf)   
 [Git — система контроля версий](https://github.com/Viktor2491/Viktor2491/blob/main/Certificates/certificate%20(3).pdf)
+
 [Компьютерная грамотность](https://github.com/Viktor2491/Viktor2491/blob/main/Certificates/certificate%20(1).pdf)  
 
 
