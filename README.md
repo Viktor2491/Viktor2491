@@ -49,20 +49,13 @@ Email: v.taradayko@mail.ru
 
 # Сертификаты
 
-[Тестировщик ПО](pdf/certificate (6).pdf)  
-[Ручное тестирование вебприложений](pdf/certificateMQA.pdf)  
-[Java для тестировщиков](pdf/certificateJAVA.pdf)  
-[Автоматизированное тестирование](pdf/certificateAQA.pdf)
+[Тестировщик ПО](https://github.com/Viktor2491/Viktor2491/blob/main/Certificates/certificate%20(6).pdf)  
+[Ручное тестирование вебприложений](https://github.com/Viktor2491/Viktor2491/blob/main/Certificates/certificate%20(2).pdf)
+[Java для тестировщиков](https://github.com/Viktor2491/Viktor2491/blob/main/Certificates/certificate%20(4).pdf)  
+[Автоматизированное тестирование](https://github.com/Viktor2491/Viktor2491/blob/main/Certificates/certificate%20(5).pdf)
 
-[Основы верстки сайта](pdf/certificateHTML.pdf)  
-[ HTML-верстка: с нуля до первого макета](pdf/certificateHTML2.pdf)  
-[Введение в SQL и работу с базой данных](pdf/certificateSQL.pdf)  
-[Git — система контроля версий](pdf/certificateGit.pdf)
+[ HTML-верстка: с нуля до первого макета](https://github.com/Viktor2491/Viktor2491/blob/main/Certificates/certificate.pdf))   
+[Git — система контроля версий](https://github.com/Viktor2491/Viktor2491/blob/main/Certificates/certificate%20(3).pdf)
+[Компьютерная грамотность](https://github.com/Viktor2491/Viktor2491/blob/main/Certificates/certificate%20(1).pdf)  
 
-[Python-разработка для начинающих](pdf/certificatePy.pdf)  
-[Первые шаги в JavaScript: создаём сайт и приложение](pdf//certificateJS.pdf)  
-[Искусственный интеллект: создайте свою первую нейросеть](pdf/certificateAI.pdf)
-
-[Тайм-менеджмент](pdf/certificateTM.pdf)  
-[Work-life balance](pdf//certificateWL.pdf)
 
