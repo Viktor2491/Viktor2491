@@ -46,3 +46,23 @@ Email: v.taradayko@mail.ru
     - проведено **тестирование верстки** и **изучение структуры POST запросов** при помощи **DevTools**
  
 [Больше моих проектов](https://github.com/Viktor2491?tab=repositories)
+
+# Сертификаты
+
+[Тестировщик ПО](pdf/certificate (6).pdf)  
+[Ручное тестирование вебприложений](pdf/certificateMQA.pdf)  
+[Java для тестировщиков](pdf/certificateJAVA.pdf)  
+[Автоматизированное тестирование](pdf/certificateAQA.pdf)
+
+[Основы верстки сайта](pdf/certificateHTML.pdf)  
+[ HTML-верстка: с нуля до первого макета](pdf/certificateHTML2.pdf)  
+[Введение в SQL и работу с базой данных](pdf/certificateSQL.pdf)  
+[Git — система контроля версий](pdf/certificateGit.pdf)
+
+[Python-разработка для начинающих](pdf/certificatePy.pdf)  
+[Первые шаги в JavaScript: создаём сайт и приложение](pdf//certificateJS.pdf)  
+[Искусственный интеллект: создайте свою первую нейросеть](pdf/certificateAI.pdf)
+
+[Тайм-менеджмент](pdf/certificateTM.pdf)  
+[Work-life balance](pdf//certificateWL.pdf)
+
