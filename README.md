@@ -50,7 +50,9 @@ Email: v.taradayko@mail.ru
 # Сертификаты
 
 [Тестировщик ПО](https://github.com/Viktor2491/Viktor2491/blob/main/Certificates/certificate%20(6).pdf)  
+
 [Ручное тестирование вебприложений](https://github.com/Viktor2491/Viktor2491/blob/main/Certificates/certificate%20(2).pdf)
+
 [Java для тестировщиков](https://github.com/Viktor2491/Viktor2491/blob/main/Certificates/certificate%20(4).pdf)  
 [Автоматизированное тестирование](https://github.com/Viktor2491/Viktor2491/blob/main/Certificates/certificate%20(5).pdf)
 
