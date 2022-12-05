@@ -35,7 +35,7 @@ Email: v.taradayko@mail.ru
      - подключил и настроил систему **CI (GitHub Actions)**
      - отработал навыки **командного планирования и взаимодействия**
 
-1. [Курсовая работа по модулю "Ручное тестирование веб-приложений"](https://docs.google.com/spreadsheets/d/1qeVGnFKS7NjMV8O19GbYHfcnCjph7PB6jLOaJ1FN47c/edit#gid=0)
+1. [Курсовая работа по модулю "Ручное тестирование веб-приложений"](https://docs.google.com/spreadsheets/d/1KU7FRp8vw2548GV2Y6shte5r3pt2Joeb/edit?usp=sharing&ouid=108750645653417271805&rtpof=true&sd=true)
 
     В рамках курсовой по ручному тестированию сайта интернет-магазина https://henderson.ru/:
 
