@@ -41,7 +41,7 @@ Email: v.taradayko@mail.ru
 
     - написан **чек-лист** проверки функционала ЛК сайта 
     - проведено **тестирование ТЗ** по процессу восстановления пароля
-    - на основе ТЗ выше, создал набор из [**24 тест-кейсов**](https://docs.google.com/spreadsheets/d/1KU7FRp8vw2548GV2Y6shte5r3pt2Joeb/edit?usp=sharing&ouid=108750645653417271805&rtpof=true&sd=true)
+    - на основе ТЗ выше, создал набор из [**24 тест-кейсов**](https://docs.google.com/spreadsheets/d/1y1yxH94kHp0FgcGG_6W8OPslBqE7rKQJa_AAJ4DvKoU/edit?usp=sharing)
     - оформлено **7 баг-репортов:** [4-на дефекты в функционале поиска](https://docs.google.com/spreadsheets/d/1MmlP-mN6f_jaI7kFDgcm_cXTsGyvt5g2/edit?usp=sharing&ouid=108750645653417271805&rtpof=true&sd=true),[3-на отзывы о товаре](https://docs.google.com/spreadsheets/d/1HjhGgYgmHNqMGzBgfKoIT8qL0__4Tl1k/edit?usp=sharing&ouid=108750645653417271805&rtpof=true&sd=true) 
     - проведено **тестирование верстки** и **изучение структуры POST запросов** при помощи **DevTools**
  
